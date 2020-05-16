@@ -1,6 +1,4 @@
-# Udacity Self-Driving Car Engineer Nanodegree - Behavioral Cloning Project
-
-*My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
+# Self-Driving Car Engineer Nanodegree - Behavioral Cloning Project
 
 **Note: This project makes use of a Udacity-developed driving simulator and training data collected from the simulator (neither of which is included in this repo).**
 
